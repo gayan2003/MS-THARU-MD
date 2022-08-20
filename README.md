@@ -88,7 +88,7 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 - FORK THE REPOSITORY [Here](https://github.com/gayan2003/MS-THARU-MD/fork)
 
 ## `Scan QR Code For Session`
-[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Kaveesha2006/DARK-NERO-BOT-1?v=1&lite=1#index.js)
+[![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@gayan2003/MS-THARU-1?v=1)
 
 ## `SETTINGS`
 
