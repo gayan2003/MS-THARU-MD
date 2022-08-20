@@ -1,8 +1,8 @@
 {
-  "name": "DarkNeroBot-MD",
+  "name": "MsTharuBot-MD",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/Kaveeshasithum/DARK-NERO-BOT",
-  "logo": "https://i.ibb.co/3snV3Zf/Whats-App-Image-2022-07-28-at-4-45-19-PM.png",
+  "repository": "https://github.com/gayan2003/MS-THARU-MD",
+  "logo": "https://i.ibb.co/k1YK8KM/Whats-App-Image-2022-07-28-at-4-45-19-PM.png",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [
     {
