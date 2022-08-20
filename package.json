@@ -1,5 +1,5 @@
 {
-  "name": "NeroBot-MD",
+  "name": "MsTharuBot-MD",
   "version": "4.0.0",
   "description": "Automated whatsapp md bot created using nodejs",
   "main": "xeon.js",
@@ -75,10 +75,10 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Kaveeshasithum/DARK-NERO-BOT.git"
+    "url": "git+https://github.com/gayan2003/MS-THARU-MD.git"
   },
   "bugs": {
     "url": "https://github.com/DGXeon/CheemsBot-MD4/issues"
   },
-  "homepage": "https://github.com/Kaveeshasithum/DARK-NERO-BOT#readme"
+  "homepage": "https://github.com/gayan2003/MS-THARU-MD#readme"
 }
