@@ -68,7 +68,7 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 ## ```Donate Me```
 
-- [`FamPay`](https://telegra.ph/file/8737b098fd5702daeb7e0.jpg)
+- [`FamPay`](https://telegra.ph/file/3cff09d45dcd40fdc7813.jpg)
 
 <p align="left">
 Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe and FamPay.
@@ -76,27 +76,27 @@ Scan qr code from the above button, u can pay through GooglePay, Paytm, PhonePe 
 
 ## ```Bot Support Groups```
 
-- [`1st GC`](https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX)
-- [`2nd GC`](https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX)
-- [`3rd GC`](https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX)
+- [`1st GC`](https://chat.whatsapp.com/HiCr9f0PIIzGse0YfmphKi)
+- [`2nd GC`](https://chat.whatsapp.com/HiCr9f0PIIzGse0YfmphKi)
+- [`3rd GC`](https://chat.whatsapp.com/HiCr9f0PIIzGse0YfmphKi)
 
 
 <img src="https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" alt="nz" width="600"/>
 
 # Setup For Deployment 👇
 
-- FORK THE REPOSITORY [Here](https://github.com/Kaveeshasithum/DARK-NERO-BOT/fork)
+- FORK THE REPOSITORY [Here](https://github.com/gayan2003/MS-THARU-MD/fork)
 
 ## `Scan QR Code For Session`
 [![Cheems Bot](https://repl.it/badge/github/quiec/whatsasena)](https://replit.com/@Kaveesha2006/DARK-NERO-BOT-1?v=1&lite=1#index.js)
 
 ## `SETTINGS`
 
-- CHANGE OWNER NUMBER VCARD [Here](https://github.com/Kaveeshasithum/DARK-NERO-BOT/blob/master/settings.js#L58)
-- CHANGE OWNER NUMBER MENU [Here](https://github.com/Kaveeshasithum/DARK-NERO-BOT/blob/master/settings.js#L65)
-- CHANGE OWNER NUMBER TAG [Here](https://github.com/Kaveeshasithum/DARK-NERO-BOT.git/blob/master/settings.js#L66)
-- CHANGE OWNER NAME [Here](https://github.com/Kaveeshasithum/DARK-NERO-BOT.git/blob/master/settings.js#L59)
-- CHANGE BOT NAME [Here](https://github.com/Kaveeshasithum/DARK-NERO-BOT.git/blob/master/settings.js#L67)
+- CHANGE OWNER NUMBER VCARD [Here](https://github.com/gayan2003/MS-THARU-MD/blob/master/settings.js#L58)
+- CHANGE OWNER NUMBER MENU [Here](https://github.com/gayan2003/MS-THARU-MD/blob/master/settings.js#L65)
+- CHANGE OWNER NUMBER TAG [Here](https://github.com/gayan2003/MS-THARU-MD.git/blob/master/settings.js#L66)
+- CHANGE OWNER NAME [Here](https://github.com/gayan2003/MS-THARU-MD.git/blob/master/settings.js#L59)
+- CHANGE BOT NAME [Here](https://github.com/gayan2003/MS-THARU-MD.git/blob/master/settings.js#L67)
 
 
 <img src="https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" alt="nz" width="600"/>
@@ -130,7 +130,7 @@ https://github.com/clhuang/heroku-buildpack-webp-binaries.git
 * Any text editor
 ## `Clone Repo & Installation dependencies`
 ```bash
-git clone https://github.com/Kaveeshasithum/DARK-NERO-BOT.git
+git clone https://github.com/gayan2003/MS-THARU-MD.git
 npm start
 ```
 ## `For Termux/Ssh/Ubuntu`
@@ -146,7 +146,7 @@ pkg install ffmpeg -y
 pkg install wget
 pkg install imagemagick -y
 git clone https://github.com/DGXeon/NeroBot-MD4
-cd NeroBot-MD
+cd MsTharuBot-MD
 npm start
 ```
 ## `For VPS`
@@ -157,8 +157,8 @@ apt apt install ffmpeg
 apt apt install libwebp 
 apt apt install imagrmagick
 apt install bash
-git clone https://github.com/DGXeon/NeroBot-MD4
-cd DarkNero-MD2
+git clone https://github.com/DGXeon/MsTharuBot-MD4
+cd MsTharu-MD2
 npm start
 ```
 ## `For 24/7 Activation (Termux)`
