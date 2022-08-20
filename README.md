@@ -2,10 +2,10 @@
 
 <h1 align="center">✫ ✫ ✫ᴍꜱ ᴛʜᴀʀᴜ✫ ✫ ✫<br></h1>
 <p align="center">
-<img src="https://i.ibb.co/ydzY2yn/Whats-App-Image-2022-07-19-at-1-07-23-PM.jpg" alt="Whats-App-Image-2022-07-19-at-1-07-23-PM" border="0">
+<img src="https://i.ibb.co/k1YK8KM/Whats-App-Image-2022-07-19-at-1-07-23-PM.jpg" alt="Whats-App-Image-2022-07-19-at-1-07-23-PM" border="0">
  
  
- ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐞𝐥𝐜𝐨𝐦𝐞+𝐓𝐨+☬DARK༒NERO࿐+࿐;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹) ]
+ ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝐖𝐄𝐋𝐋𝐂𝐎𝐌𝐄+𝐓𝐎+☬MS-THARU༒+࿐;💕ඉතිං+කොහොමද🙃;😁මොකද+කරන්නෙ🌹) ]
  
  
 <p align="center">
@@ -22,13 +22,13 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 # ```Bot Info```
 <p align="center">
 <a href="https://github.com/DGXeon/followers"><img title="Followers" src="https://img.shields.io/github/followers/DGXeon?color=red&style=flat-square"></a>
-<a href="https://github.com/Kaveeshasithum/DARK-NERO-BOT/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DGXeon/CheemsBot-MD4?color=blue&style=flat-square"></a>
-<a href="https://github.com/Kaveeshasithum/DARK-NERO-BOT/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DGXeon/CheemsBot-MD4?color=red&style=flat-square"></a>
-<a href="https://github.com/Kaveeshasithum/DARK-NERO-BOT/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/DGDark/neroBot-MD4?label=Watchers&color=blue&style=flat-square"></a>
-<a href="https://github.com/Kaveeshasithum/DARK-NERO-BOT"><img title="Open Source" src="https://img.shields.io/badge/Author-Xeon%20Bot%20Inc.-red?v=103"></a>
-<a href="https://github.com/Kaveeshasithum/DARK-NERO-BOT/"><img title="Size" src="https://img.shields.io/github/repo-size/DGXeon/CheemsBot-MD4?style=flat-square&color=green"></a>
+<a href="https://github.com/gayan2003/MS-THARU-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/DGXeon/CheemsBot-MD4?color=blue&style=flat-square"></a>
+<a href="https://github.com/gayan2003/MS-THARU-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/DGXeon/CheemsBot-MD4?color=red&style=flat-square"></a>
+<a href="https://github.com/gayan2003/MS-THARU-MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/MS-/tharuBot-MD4?label=Watchers&color=blue&style=flat-square"></a>
+<a href="https://github.com/gayan2003/MS-THARU-MD"><img title="Open Source" src="https://img.shields.io/badge/Author-Xeon%20Bot%20Inc.-red?v=103"></a>
+<a href="https://github.com/gayan2003/MS-THARU-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/DGXeon/CheemsBot-MD4?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDGXeon%2FCheemsBot-MD4&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
-<a href="https://github.com/Kaveeshasithum/DARK-NERO-BOT/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/gayan2003/MS-THARU-MD/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
     </p>
@@ -37,28 +37,28 @@ Cheems Bot Multi Device is a automated whatsapp bot created by <a href="https://
 
 ## ```Connect With Me```
 <p align="center">
-<a href="https://wa.me/94774579505"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/94758512807"><img src="https://img.shields.io/badge/Contact Xeon-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://chat.whatsapp.com/HiCr9f0PIIzGse0YfmphKi"><img src="https://img.shields.io/badge/Join Official GC-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 <img src="https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" alt="nz" width="600"/>
 
 ## 
 
-//```DARK NERO NEW UPDATE```// 
+//```MS-THARU NEW UPDATE```// 
 
-       2022 08 03 
+       2022 08 20 
 
 
 -THENX FROM = vihanga & kumuthu    pramu & amra
 
 
- -𝙱𝙾𝚃 cricating = 𝙺𝙰𝚅𝙴𝙴𝚂𝙷𝙰
+ -𝙱𝙾𝚃 cricating = 𝑮𝑨𝒀𝑨𝑵𝑻𝑯𝑨
 
 <img src="https://camo.githubusercontent.com/71b837571c48af3aa60a73dbc9d5936aa359d78efbfa8a6743cbbbc16b80ef4d/68747470733a2f2f63646e2e646973636f72646170702e636f6d2f6174746163686d656e74732f3830353930323039333930363630383138362f3830353931333937323533353539303932322f74656e6f722e676966" alt="nz" width="600"/>
 
 
 
-    [`𝙱𝙾𝚃 cricating = 𝙺𝙰𝚅𝙴𝙴𝚂𝙷𝙰)
+    [`𝙱𝙾𝚃 cricating = 𝑮𝑨𝒀𝑨𝑵𝑻𝑯𝑨)
 
 
 
